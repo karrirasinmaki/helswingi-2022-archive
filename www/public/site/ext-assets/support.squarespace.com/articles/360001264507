@@ -1,0 +1,1528 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+  <meta charset="utf-8" />
+  <!-- v22603 -->
+
+  <title>The cookies Squarespace uses &ndash; Squarespace Help Center</title>
+
+  
+
+  <meta name="description" content="How the different cookies we place enhance the browsing experience. We use cookies to help your site run effectively and provide the best..." /><meta property="og:image" content="https://theme.zdassets.com/theme_assets/593095/169fbda2a37d0b7eb368b5518b40614cf7e6074f.svg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Squarespace Help Center" />
+<meta property="og:title" content="The cookies Squarespace uses" />
+<meta property="og:description" content="How the different cookies we place enhance the browsing experience.
+We use cookies to help your site run effectively and provide the best experience for your visitors. This guide describes the cook..." />
+<meta property="og:url" content="https://support.squarespace.com/hc/en-us/articles/360001264507-The-cookies-Squarespace-uses" />
+<link rel="canonical" href="https://support.squarespace.com/hc/en-us/articles/360001264507-The-cookies-Squarespace-uses">
+<link rel="alternate" hreflang="de" href="https://support.squarespace.com/hc/de/articles/360001264507-%C3%9Cber-die-von-Squarespace-verwendeten-Cookies">
+<link rel="alternate" hreflang="en" href="https://support.squarespace.com/hc/en-us/articles/360001264507-The-cookies-Squarespace-uses">
+<link rel="alternate" hreflang="es" href="https://support.squarespace.com/hc/es/articles/360001264507-Acerca-de-las-cookies-que-utiliza-Squarespace">
+<link rel="alternate" hreflang="fr" href="https://support.squarespace.com/hc/fr-fr/articles/360001264507-Les-cookies-utilis%C3%A9s-par-Squarespace">
+<link rel="alternate" hreflang="it" href="https://support.squarespace.com/hc/it/articles/360001264507-Cookie-utilizzati-da-Squarespace">
+<link rel="alternate" hreflang="pt" href="https://support.squarespace.com/hc/pt/articles/360001264507-Os-cookies-que-o-Squarespace-usa">
+
+  <link rel="stylesheet" href="//static.zdassets.com/hc/assets/application-4457e15fd2317df56adee04580b8726d.css" media="all" id="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="//p13.zdassets.com/hc/theming_assets/593095/167125/style.css?digest=14211530167053">
+
+  <link rel="icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/593095/5d91cfd1e92ec871caff7bb9ffce5102e28676df.ico" />
+
+    
+    
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+<!-- Google Search Console verification -->
+<meta name="google-site-verification" content="BH2xphEDDDwt0cNe8V3RDvorBsDRLv4iRfN0dZUWk9c" />
+<meta name="google-site-verification" content="24j5Z9PX1iljDwnEp_f3wuU0xXaw6cv72CM_OGBzINQ" />
+<meta name="google-site-verification" content="XG15aS6C0PDPf3W9p8x0wIw138F2F8HH1sjIJT7lwKc" />
+<!-- Facebook Social Sharing -->
+<meta property="og:url" content="https://support.squarespace.com" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Squarespace Help" />
+<meta property="og:description" content="In-depth articles and videos on everything Squarespace." />
+<meta property="og:image"
+  content="https://theme.zdassets.com/theme_assets/593095/76439a2c70d180ab75568a2e5c1a636070099cf8.jpeg" />
+<!-- ../assets/banner-image-contact.jpg -->
+<meta property="og:locale" content="en_US" />
+<meta property="og:locale:alternate" content="es_ES" />
+<meta property="og:locale:alternate" content="fr_FR" />
+<meta property="og:locale:alternate" content="de_DE" />
+<meta property="og:locale:alternate" content="it_IT" />
+<meta property="og:locale:alternate" content="pt_BR" />
+<meta property="fb:app_id" content="980159875444848" />
+
+<!-- Facebook Social Sharing END -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<!-- Single Sign On -->
+<script>
+	var ZD_SSO_SETTINGS = {
+		"enabled": true,
+    "anonymous": true,
+    "end_user": true,
+		"agent": false,
+  	"manager": false,
+    "internal": false,
+  	"group_filter": "",
+  };
+</script>
+
+<!-- Google Tag Manager -->
+<script>
+  (function (w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+    var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s),
+      dl = l != "dataLayer" ? "&l=" + l : "";
+    j.async = true;
+    j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, "script", "dataLayer", "GTM-BCCP");
+</script>
+<!-- End Google Tag Manager -->
+
+<!-- Trust Arc -->
+<script async="async"
+  src=//consent.trustarc.com/notice?domain=squarespace.com&c=teconsent&js=nj&noticeType=bb&text=true&pn=2&gtm=1&language=en-us&pcookie
+  crossorigin=""></script>
+
+
+<!-- stylesheets -->
+<link rel="stylesheet" href="//theme.zdassets.com/theme_assets/593095/a9328d9583a81900aa237457492f8447b39f402c.css" />
+
+<!-- scripts -->
+<script type="text/javascript" src="https://cdn.statuspage.io/se-v2.js"></script>
+
+<!-- Start of squarespace Zendesk Widget script -->
+<script>
+  let loaded;
+  window.isZeReady = new Promise((resolve) => loaded = resolve);
+  const zeScriptTag = document.createElement('script');
+  zeScriptTag.id = "ze-snippet";
+  zeScriptTag.type = "text/javascript";
+  const head = document.getElementsByTagName('head')[0];
+  head.appendChild(zeScriptTag);
+  zeScriptTag.addEventListener("load", () => {
+    window.zE('webWidget:on', 'chat:status', status => {
+      window.webWidgetChatStatus = status;
+    });
+    window.zESettings = {
+      webWidget: {
+        helpCenter: {
+          suppress: true,
+        },
+        position: { horizontal: 'left', vertical: 'bottom' },
+      },
+    };
+  	loaded();
+  });
+  zeScriptTag.addEventListener("error", () => loaded());
+  zeScriptTag.src = "https://static.zdassets.com/ekr/snippet.js?key=c6079509-6ec0-467c-8f33-76a061b470d0";
+</script>
+<!-- End of squarespace Zendesk Widget script! -->
+
+<!-- Start of Wistia player script -->
+<script src="https://fast.wistia.com/assets/external/E-v1.js" async> </script>
+<!-- End of Wistia player script -->
+
+<!-- Impact Landings Tracking -->
+<script type="text/javascript">
+  (function(a, b, c, d, e, f, g) {
+    e["ire_o"] = c;
+    e[c] =
+      e[c] ||
+      function() {
+        (e[c].a = e[c].a || []).push(arguments);
+      };
+    f = d.createElement(b);
+    g = d.getElementsByTagName(b)[0];
+    f.async = 1;
+    f.src = a;
+    g.parentNode.insertBefore(f, g);
+  })("//d.impactradius-event.com/A1325362-caba-4d3f-a83b-1ca7492ec0a51.js", "script", "ire", document, window);
+  ire("identify", { customerId: "", customerEmail: "" });
+</script>
+
+<script>
+  var parseQueryString = function( queryString ) {
+    var params = {}, queries, temp, i, l;
+    // Split into key/value pairs
+    queries = queryString.split("&");
+    // Convert the array of strings into an object
+    for ( i = 0, l = queries.length; i < l; i++ ) {
+        temp = queries[i].split('=');
+        params[temp[0]] = temp[1];
+    }
+    return params;
+  };
+  var result = parseQueryString(window.location.search.substring(1));
+  var ZD_HC_SETTINGS = {
+    "experiments": {  // A/B tests
+      "sqsp_survey_2021": {
+        allocationPercentage: 6,
+        enabled: true,
+        delay: 420
+      },
+      "autologin-qa": {
+        allocationPercentage: "100",
+        enabled: true
+      },
+      "aus_live_chat": {
+        allocationPercentage: "100",
+        enabled: true
+      }
+    },
+    "others": {
+      "isE2ETesting": false || (result["e2e-testing-enabled"] === "true"),
+      "experiments_sqsp_employees": true,
+      "germanLiveChatEnabled": false,
+      "schedulingLiveChatEnabled": true,
+      "guideSurveyDelayTime": 45
+    },
+  };
+  var players = [];
+</script>
+
+  
+</head>
+<body class="">
+  
+  
+
+  <!-- Mobile Menu Nav -->
+<nav id="mobile-nav" class="mobile-nav"></nav>
+
+<!-- trustArc -->
+<div id="trustArc">
+  <div id="consent_blackbar"></div>
+</div>
+
+<!-- Page Loading Indicator -->
+<div class="loading-indicator" style="display: none;">
+  <div class="loading-symbol-wrapper">
+    <div class="loading-symbol"></div>
+  </div>
+  <div class="loading-text">Gathering resources...</div>
+</div>
+<!-- Announcement Bar -->
+<div id="announcement" style="position: relative;"></div>
+
+<div class="site-wrapper">
+  <header class="header"></header>
+  <div class="community-templates hide">
+    <!-- Community Home Sidebar -->
+    <div id="t-community-sidebar" class="community-sidebar" data-template="community-main">
+      <div class="sidebar-box">
+        <p class="community-welcome"></p>
+        <p class="community-note"></p>
+      </div>
+      <div class="sidebar-box sidebar-box-search">
+        <h3 class="subtitle"></h3>
+        <form role="search" class="search" data-search="" action="/hc/en-us/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" autocomplete="off" /><input type="search" name="query" id="query" placeholder="Search" aria-label="Search" />
+<input type="submit" name="commit" value="Search" /></form>
+      </div>
+    </div>
+
+    <!-- Community Topic Sidebar -->
+    <div id="t-community-topic-sidebar" class="community-sidebar" data-template="community-topic">
+      <div class="sidebar-box">
+        <h3 class="subtitle"></h3>
+        <div class="topic-follow-wrapper"></div>
+        <div class="post-details">
+          <!-- <span class="post-detail">Posts: <span class="post-data" data-content="topic-posts"></span></span> -->
+          <span class="post-detail"> Followers: <span class="post-data" data-content="topic-followers"></span> </span>
+        </div>
+      </div>
+      <div class="sidebar-box sidebar-box-search">
+        <h3 class="subtitle"></h3>
+        <form role="search" class="search" data-search="" action="/hc/en-us/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" autocomplete="off" /><input type="search" name="query" id="query" placeholder="Search" aria-label="Search" />
+<input type="submit" name="commit" value="Search" /></form>
+      </div>
+      <div class="sidebar-box">
+        <p class="community-welcome"></p>
+        <p class="community-note"></p>
+      </div>
+    </div>
+
+    <!-- Post Sidebar -->
+    <div id="t-community-post-sidebar" class="community-sidebar" data-template="community-post">
+      <div class="sidebar-box">
+        <h3 class="subtitle"></h3>
+        <div class="post-follow-wrapper"></div>
+        <div class="post-details">
+          <span class="post-detail"> Asked: <span class="post-data" data-content="post-created"></span> </span>
+          <span class="post-detail hide"> Updated: <span class="post-data" data-content="post-updated"></span> </span>
+          <span class="post-detail"> Followers: <span class="post-data" data-content="post-followers"></span> </span>
+        </div>
+      </div>
+      <div class="sidebar-box">
+        <h3 class="subtitle"></h3>
+        <div class="post-share-wrapper"></div>
+      </div>
+      <div class="sidebar-box sidebar-box-search">
+        <h3 class="subtitle"></h3>
+        <form role="search" class="search" data-search="" action="/hc/en-us/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" autocomplete="off" /><input type="search" name="query" id="query" placeholder="Search" aria-label="Search" />
+<input type="submit" name="commit" value="Search" /></form>
+      </div>
+      <div class="sidebar-box">
+        <p class="community-welcome"></p>
+        <p class="community-note"></p>
+      </div>
+    </div>
+  </div>
+
+
+  <div id="is_not_signed_in"></div>
+
+<div id="hc-sign-in-link" style="display: none;"><a rel="nofollow" data-auth-action="signin" title="Opens a dialog" role="button" href="/hc/en-us/signin?return_to=https%3A%2F%2Fsupport.squarespace.com%2Fhc%2Fen-us%2Farticles%2F360001264507">You need to sign in to view this page.</a></div>
+<div id="hc-sign-out-link" style="display: none;"></div>
+<div id="dc" style="display: none;">
+  <div name="hc_search_results_page_search_results">Search Results</div>
+  <div name="hc_search_results_page_all_categories">All Categories</div>
+  <div name="hc_search_results_page_category_clear">Clear</div>
+  <div name="hc_header_search">Search</div>
+  <div name="hc_search_results_page_apply">Apply</div>
+  <div name="hc_category_page_search_placeholder">Search in</div>
+  <div name="hc_search_results_page_category_dropdown_placeholder">Category</div>
+  <div name="hc_search_results_page_category_reset">Reset</div>
+  <div name="hc_search_results_page_filter_by">Filter by</div>
+  <div name="hc_category_page_previous_button">Prev</div>
+  <div name="hc_category_page_next_button">Next</div>
+  <div name="hc_category_page_guides">Guides</div>
+  <div name="hc_header_menu_user_menu_log_out">Log out</div>
+  <div name="hc_header_menu_user_menu_account_dashboard">Account dashboard</div>
+  <div name="hc_footer_footer_nav_select_language">Select your language</div>
+  <div name="hc_header_menu_logo_url">https://support.squarespace.com/hc/</div>
+  <div name="hc_header_menu_videos">VIDEOS</div>
+  <div name="hc_url_webinars_url">https://learning.squarespace.com</div>
+  <div name="hc_header_menu_workshops">WEBINARS</div>
+  <div name="hc_url_forum_url">https://forum.squarespace.com</div>
+  <div name="hc_header_menu_forum">FORUM</div>
+  <div name="hc_url_contact_us_url">/hc/requests/new#choose-topic</div>
+  <div name="hc_header_menu_contact">CONTACT US</div>
+  <div name="hc_contact_page_form_live_chat_closed">LIVE CHAT: CLOSED</div>
+  <div name="hc_contact_page_form_live_chat_open">LIVE CHAT: OPEN</div>
+  <div name="hc_header_login_link">Login</div>
+  <div name="hc_search_see_all_link">See All Results</div>
+  <div name="hc_contact_ticket_send_button">Send</div>
+  <div name="hc_contact_ticket_dropdown_placeholder">Choose a topic</div>
+  <div name="hc_contact_ticket_suggestion_title">We think this will help:</div>
+  <div name="hc_contact_options_description">Still need to contact us? </div>
+  <div name="hc_contact_ticket_live_chat_intro">Real-time conversation and immediate answers.</div>
+  <div name="hc_contact_ticket_live_chat_button">Live Chat</div>
+  <div name="hc_contact_ticket_live_chat_hours">Monday - Friday: </br>
+4:00AM to 8:00PM EST</br></div>
+  <div name="hc_contact_ticket_email_intro">Send us a message and read our answer when it’s convenient for you.</div>
+  <div name="hc_contact_ticket_email_button">Email</div>
+  <div name="hc_contact_ticket_email_suggestion_footer">Contact us by email to get help with this topic.</div>
+  <div name="hc_contact_ticket_email_hours">24 hours a day<br />
+7 days a week</div>
+  <div name="hc_header_user_menu_log_into_squarespace">Log into Squarespace</div>
+  <div name="hc_error_conditional_button">Regresar </div>
+  <div name="hc_error_conditional_title">This guide is not available in English. You will be redirected in 5 seconds </div>
+ 
+  <div name="hc_contact_page_ticket_form_live_chat_button_alert">  We currently offer live chat support in English only.
+<br/><br/></div>
+  <div name="hc_contact_page_ticket_form_live_chat_button_alert_email"> EMAIL SUPPORT IN SPANISH</div>
+  <div name="hc_contact_page_ticket_form_live_chat_button_alert_chat"> CHAT IN ENGLISH</div>
+  
+  <div name="hc_contact_page_ticket_form_squarespace_5_legacy_platform_squarespace_5_help"> Squarespace 5 Help</div>
+  <div name="hc_contact_page_ticket_form_squarespace_5_legacy_platform_description"> For questions about the legacy Squarespace 5 platform, please visit its Help Center:</div>
+  <div name="hc_contact_page_ticket_form_squarespace_5_legacy_platform_back_button"> Back</div>
+  
+  <div name="hc_contact_page_ticket_form_account_recovery"> Regain access to your account or site</div>
+  <div name="hc_contact_page_ticket_form_account_recovery_summary"> If you’ve tried to <a target="_blank" href="https://login.squarespace.com/recovery-form#/recovery/domain"><strong>recover your Squarespace account</strong></a> and still can’t access it, we’re here to help. Please enter as much information as you can, but if you’re not sure about specific details, provide your best guess.<br><br>
+
+Before you begin:<br>
+
+<p class="dc-indented">• Did you already try to <a target="_blank" href="https://login.squarespace.com/recovery-form#/recovery/domain"><strong>recover your account</strong></a> through the login page? We’ll ask you to try that first if you haven’t yet.<br>
+
+<p class="dc-indented">• For your security, we’ll only provide account details to the account holder.<br>
+
+<p class="dc-indented">• For help recovering a Google Workspace account, contact us <a target="_blank" href="https://support.squarespace.com/hc/requests/new?ticket_form_id=64357"><strong>here.</strong></a></p></div>
+  <div name="hc_contact_page_ticket_form_account_recovery_email"> Email address where we can contact you.</div>
+  <div name="hc_contact_page_ticket_form_account_recovery_description"> What situation led to the trouble accessing your account?</div>
+  <div name="hc_contact_page_ticket_form_account_recovery_website_url_s"> URLs of any websites connected to the account. Enter as many domains as possible.</div>
+  <div name="hc_contact_page_ticket_form_account_recovery_attachment_title">Please attach both of the following documents:</br>
+
+<p class="dc-indented">• A government-issued ID. For example, a driver’s license, passport or permanent resident card.
+<p class="dc-indented">• A bank statement that shows the bank header, bank accountholder name, and the most recent Squarespace charge. You are free to obscure other personal information in the document. (Not required for two-factor authentication issues.)</br></p>
+
+Note:</br>
+
+<p class="dc-indented">• If you entered multiple websites above, attach statements showing the most recent charge associated with every site.
+<p class="dc-indented">• Ensure your files are .jpg or .png so we can view them.</p> </div>
+  <div name="hc_contact_page_ticket_form_account_recovery_form_button"> Request Account Access</div>
+  <div name="hc_contact_page_ticket_form_account_recovery_end_summary"> A member of our team will respond as soon as possible. <a href="http://www.squarespace.com/privacy/">http://www.squarespace.com/privacy/</a></div>
+  <div name="hc_contact_page_security_steps_intro">Follow these steps:</div>
+  <div name="hc_contact_page_learn_more">Learn More</div>
+
+  <div name="hc_contact_page_ticket_form_request_a_refund_button"> Request a Refund</div>
+  <div name="hc_contact_page_ticket_form_request_a_refund_business_hours"> Hear back in 2 business days.</div>
+  
+  <div name="hc_contact_page_ticket_form_sales_tax_certificate">If you have a tax exemption certificate, attach it here. .pdf, .png, .jpeg file formats are accepted.</div>
+  <div name="hc_contact_page_ticket_form_sales_tax_description">Use this form to submit a request about exemption from sales tax collected for Squarespace payments.</div>
+  <div name="hc_contact_page_ticket_form_sales_tax_details">Enter the details of your request here. If you’re not based in a country or state where we collect taxes, and you believe we shouldn’t collect taxes from you, please explain.</div>
+  <div name="hc_contact_page_ticket_form_sales_tax_feedback_description">If you have feedback about how we collect sales tax, submit it here.
+
+Your feedback helps make Squarespace better, and we review every request we receive. Please note that we can't reply individually, but we’ll contact you if we need more details.</div>
+  <div name="hc_contact_page_ticket_form_sales_tax_feedback_title">General sales tax feedback</div>
+  <div name="hc_contact_page_ticket_form_sales_tax_form_title">Request an exemption from sales tax</div>
+  
+  <div name="hc_contact_page_ticket_form_attachments_description">Upload a screenshot of the issue you’re having, or the site content you'd like to modify, so we can help you more quickly. Learn how to take a screenshot here: <a href="http://sqsp.link/w5Jigj">http://sqsp.link/w5Jigj</a></div>
+
+  <div name="hc_contact_page_copyright_form_overview"><p>Squarespace respects intellectual property rights and expects its users to do the same. Squarespace responds expeditiously to claims of copyright infringement committed using the Services. 
+To submit a notice of claimed copyright infringement, you will need to submit a notice of infringement using the form below.</p>
+
+<p>Squarespace's response to notices of alleged copyright infringement may include the removal or restriction of access to  allegedly infringing material. Please note that information provided in a notice of copyright infringement may be forwarded  to the user who posted the allegedly infringing content or the site owner.</p></div>
+
+  <div name="hc_contact_page_email_error_message">Please complete all required fields.</div>
+
+  <div name="hc_announcementbar_announcement_title"> #</div>
+  <div name="hc_announcementbar_announcement_url"> #</div>
+  <div name="hc_announcementbar_acuity_title">Squarespace Scheduling and Acuity Scheduling have merged Help Centers. If you're coming from the Acuity Help Center, you'll find the help you need here. All guides about Squarespace Scheduling also apply to Acuity; the handful of features that are different are clearly marked.</div>
+  <div name="hc_announcementbar_acuity_url">#</div>
+	<div name="hc_announcementbar_acuity_url">#</div>
+  <div name="hc_contact_page_ticket_form_deceased_owner_description">Please use this form to submit a request regarding a deceased Squarespace customer’s site. Our deepest condolences go out to you and your family during this time, and we appreciate your patience as we work through your request.</br>
+<br>
+Due to privacy concerns and restrictions, we unfortunately can't provide you with administrative control of the site. However, if an immediate family member or legal representative completes the form below, we may be able to grant Billing permissions so the site can remain active or cancel any active subscriptions.</br>
+<br>
+Note that Billing permissions don't include the ability to edit the site's content. You can read more about this <a target="_blank" href="https://support.squarespace.com/hc/en-us/articles/206537297-Squarespace-permissions-explained"><strong>here</strong></a>.</br>
+<br>
+A note regarding Squarespace 5 sites:<br>
+Squarespace 5, our legacy platform, doesn't allow permissions to be edited. However, we can cancel or remove the site.</div>
+  <div name="hc_contact_page_ticket_form_deceased_owner_title">Submit a request about a deceased customer’s website</div>
+  <div name="hc_contact_page_ticket_form_deceased_owner_subject">URL of the site connected to the deceased user’s account</div>
+  <div name="hc_contact_page_ticket_form_deceased_owner_description_field">Any comments, requests, or concerns we should know?</div>
+  <div name="hc_contact_page_ticket_form_deceased_owner_attachment_title">Please attach the following documents:</br>
+• An image of your government-issued ID, such as a driver’s license, passport, military ID, or permanent resident card. This is for proof of your relationship to the deceased.</br>
+• An image of the deceased person’s obituary, death certificate, and/or other documents.</br>
+• Any additional documents, such as Legal Representation documentation.</br></div>
+  <div name="hc_release">{
+    "top::memberareas:billingsignup":"New Release Team (Chat)",
+    "top::memberareas:creatingmemberareas":"New Release Team (Chat)",
+    "top::memberareas:managingmemberareas":"New Release Team (Chat)",
+    "top::media:video-storage":"New Release Team (Chat)",
+    "top::billing:sepa":"New Release Team (Chat)",
+    "top::commerce:shipping":"New Release Team (Chat)"
+ }</div>
+  <div name="hc_contact_page_messaging_intro">Send us a message. Business hours are Monday - Friday, 5:30AM to 8PM EST. Messages sent outside these hours will receive a response within 12 hours.</div>
+  <div name="hc_contact_page_ticket_form_scheduling_live_chat_button_hours">Monday - Friday: </br>
+4:00AM to 8:00PM EST</br></div>
+
+  <!-- Homepage DC -->
+  <div name="hc_homepage_hero_title">Squarespace Help Center</div>
+  <div name="hc_homepage_search_hint">Find answers and resources</div>
+  <div name="hc_homepage_search_see_more_link">See More Results</div>
+  <div name="hc_homepage_product_area_heading">Browse by product</div>
+  <div name="hc_homepage_website_product_area_title">Websites</div>
+  <div name="hc_homepage_website_product_area_blocks_link">Adding content with blocks</div>
+  <div name="hc_homepage_website_product_area_images_link">Formatting your images for display</div>
+  <div name="hc_homepage_website_product_area_colors_link">Changing colors</div>
+  <div name="hc_homepage_website_product_area_seo_link">SEO checklist</div>
+  <div name="hc_homepage_domains_product_area_title">Domains</div>
+  <div name="hc_homepage_domains_product_area_connecting_link">Connecting a domain</div>
+  <div name="hc_homepage_domains_product_area_moving_link">Moving a domain to another site</div>
+  <div name="hc_homepage_domains_product_area_renewals_link">Renewals and expiration</div>
+  <div name="hc_homepage_domains_product_area_transferring_link">Transferring a domain</div>
+  <div name="hc_homepage_commerce_product_area_title">Commerce</div>
+  <div name="hc_homepage_commerce_product_area_adding_products_link">Adding products to your store</div>
+  <div name="hc_homepage_commerce_product_area_payment_link">Connecting a payment processor</div>
+  <div name="hc_homepage_commerce_product_area_discounts_link">Creating discounts </div>
+  <div name="hc_homepage_commerce_product_area_taxes_link">Setting up taxes</div>
+  <div name="hc_homepage_email_campaigns_product_area_title">Email Campaigns</div>
+  <div name="hc_homepage_email_campaigns_product_area_mailing_lists_link">Building mailing lists</div>
+  <div name="hc_homepage_email_campaigns_product_area_profiles_link">Creating sender profiles</div>
+  <div name="hc_homepage_email_campaigns_product_area_best_practices_link">Email campaign best practices</div>
+  <div name="hc_homepage_email_campaigns_product_area_getting_started_link">Getting started with Squarespace Email Campaigns</div>
+  <div name="hc_homepage_google_workspace_product_area_title">Google Workspace</div>
+  <div name="hc_homepage_google_workspace_product_area_basics_link">Using Google Workspace with Squarespace</div>
+  <div name="hc_homepage_google_workspace_product_area_adding_users_link">Adding more Google Workspace users</div>
+  <div name="hc_homepage_google_workspace_product_area_sign_up_link">Signing up for Google Workspace</div>
+  <div name="hc_homepage_google_workspace_product_area_renaming_user_link">Renaming a Google Workspace user</div>
+  <div name="hc_homepage_scheduling_product_area_title">Scheduling</div>
+  <div name="hc_homepage_scheduling_product_area_blocks_link">Appointment Scheduling Blocks</div>
+  <div name="hc_homepage_scheduling_product_area_getting_started_link">Getting started with Squarespace Scheduling</div>
+  <div name="hc_homepage_scheduling_product_area_appointments_link">Creating and editing appointment types</div>
+  <div name="hc_homepage_scheduling_product_area_faq_link">Squarespace Scheduling FAQ</div>
+  <div name="hc_homepage_member_areas_product_area_title">Member Areas</div>
+  <div name="hc_homepage_member_areas_product_area_gated_content_link">Creating gated content</div>
+  <div name="hc_homepage_member_areas_product_area_customizing_link">Customizing the Member Areas experience</div>
+  <div name="hc_homepage_member_areas_product_area_managing_link">Managing members</div>
+  <div name="hc_homepage_member_areas_product_area_getting_started_link">Getting started with Member Areas</div>
+  <div name="hc_homepage_video_studio_product_area_title">Video Studio</div>
+  <div name="hc_homepage_video_studio_product_area_creating_projects_link">Creating projects</div>
+  <div name="hc_homepage_video_studio_product_area_getting_started_link">Getting started with Video Studio</div>
+  <div name="hc_homepage_video_studio_product_area_project_steps_link">Project steps and sections</div>
+  <div name="hc_homepage_video_studio_product_area_best_practices_link">Video Studio best practices</div>
+  <div name="hc_homepage_topic_heading">Guides by topic</div>
+  <div name="hc_homepage_topic_show_more_button">Show more</div>
+  <div name="hc_homepage_topic_show_less_button">Show less</div>
+  <div name="hc_homepage_getting_started_topic_tile_title">Getting started</div>
+  <div name="hc_homepage_getting_started_topic_tile_subtitle">Everything you need to start and launch your site on Squarespace</div>
+  <div name="hc_homepage_account_topic_tile_title">Account</div>
+  <div name="hc_homepage_analytics_topic_tile_title">Analytics</div>
+  <div name="hc_homepage_account_topic_tile_subtitle">Get help with your account settings, password, and site contributors</div>
+  <div name="hc_homepage_billing_topic_tile_title">Billing</div>
+  <div name="hc_homepage_analytics_topic_tile_subtitle">View reports to gain insight into visitor engagement and sales</div>
+  <div name="hc_homepage_billing_topic_tile_subtitle">Get help with your plans, payments, and subscriptions</div>
+  <div name="hc_homepage_commerce_topic_tile_title">Commerce</div>
+  <div name="hc_homepage_commerce_topic_tile_subtitle">Learn how to set up, manage, and grow your online store</div>
+  <div name="hc_homepage_domains_topic_tile_title">Domains</div>
+  <div name="hc_homepage_domains_topic_tile_subtitle">Get step-by-step help with registering, transferring, and connecting domains</div>
+  <div name="hc_homepage_google_workspace_topic_tile_title">Google Workspace and custom email</div>
+  <div name="hc_homepage_images_and_videos_topic_tile_title">Images and videos</div>
+  <div name="hc_homepage_google_workspace_topic_tile_subtitle">Set up a custom email address with your domain</div>
+  <div name="hc_homepage_images_and_videos_topic_tile_subtitle">Make your site stand out with images, videos, and banners</div>
+  <div name="hc_homepage_integrations_topic_tile_title">Integrations and extensions</div>
+  <div name="hc_homepage_integrations_topic_tile_subtitle">Add third-party integrations to help you manage, optimize, and expand your site</div>
+  <div name="hc_homepage_marketing_topic_tile_title">Marketing</div>
+  <div name="hc_homepage_marketing_topic_tile_subtitle">Spread the word about your business with Squarespace’s all-in-one marketing tools</div>
+  <div name="hc_homepage_pages_topic_tile_title">Pages and content</div>
+  <div name="hc_homepage_privacy_topic_tile_title">Privacy and security</div>
+  <div name="hc_homepage_pages_topic_tile_subtitle">Learn how to build and edit your site with pages, sections, and blocks</div>
+  <div name="hc_homepage_seo_topic_tile_title">SEO</div>
+  <div name="hc_homepage_privacy_topic_tile_subtitle">Get information about security, SSL, data privacy, and policies about Squarespace</div>
+  <div name="hc_homepage_seo_topic_tile_subtitle">Learn how to optimize your site for search engines with the best keywords and content</div>
+  <div name="hc_homepage_scheduling_topic_tile_title">Squarespace Scheduling</div>
+  <div name="hc_homepage_scheduling_topic_tile_subtitle">Book and manage appointments with integrated online booking</div>
+  <div name="hc_homepage_technical_issues_topic_tile_title">Technical issues and contact us</div>
+  <div name="hc_homepage_technical_issues_topic_tile_subtitle">Troubleshoot technical and speed issues with your site</div>
+  <div name="hc_homepage_templates_topic_tile_title">Templates and design</div>
+  <div name="hc_homepage_templates_topic_tile_subtitle">Learn how to customize fonts, colors, and other design features</div>
+  <div name="hc_homepage_video_studio_topic_tile_title">Video Studio</div>
+  <div name="hc_homepage_video_studio_topic_tile_subtitle">Create videos to market your business on social</div>
+  <div name="hc_homepage_video_heading">Learn by video</div>
+  <div name="hc_homepage_image_videos_link">All About Images</div>
+  <div name="hc_homepage_image_videos_count">7 videos</div>
+  <div name="hc_homepage_commerce_videos_link">Introducing Commerce</div>
+  <div name="hc_homepage_commerce_videos_count">4 videos</div>
+  <div name="hc_homepage_building_videos_link">Build your first Squarespace site</div>
+  <div name="hc_homepage_building_videos_count">1 video</div>
+  <div name="hc_homepage_pages_videos_link">Your Pages & Navigation</div>
+  <div name="hc_homepage_pages_videos_count">7 videos</div>
+  <div name="hc_homepage_see_all_videos_link">See all videos</div>
+  <div name="hc_homepage_forums_headline">Community forums</div>
+  <div name="hc_homepage_forums_subhead">Join our active community of Squarespace users and professionals for advice, inspiration, and best practices.</div>
+  <div name="hc_homepage_forums_cta_squarespace">Squarespace Forum </div>
+  <div name="hc_homepage_webinars_headline">Squarespace webinars</div>
+  <div name="hc_homepage_forums_cta_circle">Circle Forum</div>
+  <div name="hc_homepage_webinars_subhead">Free online sessions where you'll learn the basics and refine your Squarespace skills. Everyone is welcome—no website required.</div>
+  <div name="hc_homepage_webinars_cta">Upcoming Webinars</div>
+  <div name="hc_homepage_marketplace_headline">Hire an Expert with Marketplace</div>
+  <div name="hc_homepage_marketplace_subhead">Squarespace Experts can help you polish an existing site, or build a new one from scratch.</div>
+  <div name="hc_homepage_marketplace_cta">Browse Experts</div>
+  <div name="hc_homepage_contact_headline">Can't find what you're looking for?</div>
+  <div name="hc_homepage_contact_subhead">We'll help you find an answer or connect you with Customer Support through live chat or email.</div>
+  <div name="hc_homepage_contact_cta">Contact Us</div>
+  <div name="hc_homepage_search_no_results">No results</div>
+
+  <!-- Homepage Image Alts DC -->
+  <div name="hc_homepage_hero_image_alt">A person holding a smart phone and looking at Colima's website</div>
+  <div name="hc_homepage_website_product_area_image_alt">A Squarespace website example</div>
+  <div name="hc_homepage_domains_product_area_image_alt">A sample domain name for a Squarespace website</div>
+  <div name="hc_homepage_google_workspace_product_area_image_alt">A screenshot of Google Workspace toolbar</div>
+  <div name="hc_homepage_commerce_product_area_image_alt">A screenshot of the Commerce product in the Squarespace platform</div>
+  <div name="hc_homepage_email_campaigns_product_area_image_alt">A sample imagery for sending email campaigns</div>
+  <div name="hc_homepage_scheduling_product_area_image_alt">A screenshot of the scheduling product in the Squarespace platform</div>
+  <div name="hc_homepage_member_areas_product_area_image_alt">A screenshot of the member area product in the Squarespace platform</div>
+  <div name="hc_homepage_video_studio_product_area_image_alt">A screenshot of the Video Studio mobile app</div>
+  <div name="hc_homepage_image_videos_image_alt">An abstract photo of shapes and colors</div>
+  <div name="hc_homepage_commerce_videos_image_alt">A pair of white shoes</div>
+  <div name="hc_homepage_building_videos_image_alt">An iPad showcasing an e-commerce website built with Squarespace</div>
+  <div name="hc_homepage_pages_videos_image_alt">A person holding a smart phone and looking at a website built with Squarespace</div>
+  <div name="hc_homepage_webinars_image_alt">A screenshot of editing tools on the Squarespace platform</div>
+  <div name="hc_homepage_forums_image_alt">Examples of questions in the Squarespace Community Forum</div>
+  <div name="hc_homepage_marketplace_image_alt">An example of a Squarespace Expert's bio</div>
+  <div name="hc_homepage_contact_image_alt">A Squarespace website with the Squarespace Customer Service Chatbot open on the screen</div>
+
+  <!-- Survey DC -->
+  <div name="hc_survey_close_button">Close</div>
+  <div name="hc_survey_satisfaction_page_question">How would you rate your experience with the Help Center?</div>
+  <div name="hc_survey_satisfaction_page_somewhat_dissatisfied_radio">Somewhat dissatisfied</div>
+  <div name="hc_survey_satisfaction_page_very_dissatisfied_radio">Very dissatisfied</div>
+  <div name="hc_survey_satisfaction_page_neither_radio">Neither satisfied nor dissatisfied</div>
+  <div name="hc_survey_satisfaction_page_somewhat_satisfied_radio">Somewhat satisfied</div>
+  <div name="hc_survey_satisfaction_page_feedback_question">Feedback</div>
+  <div name="hc_survey_satisfaction_page_very_satisfied_radio">Very satisfied</div>
+  <div name="hc_survey_next_button">Next</div>
+  <div name="hc_survey_satisfaction_page_feedback_question_placeholder">Can you tell us why? (Optional)</div>
+  <div name="hc_survey_effort_page_question">How was your experience looking for help today?</div>
+  <div name="hc_survey_effort_page_very_difficult_radio">Very difficult</div>
+  <div name="hc_survey_effort_page_somewhat_difficult_radio">Somewhat difficult</div>
+  <div name="hc_survey_effort_page_neither_radio">Neither easy nor difficult</div>
+  <div name="hc_survey_effort_page_somewhat_easy_radio">Somewhat easy</div>
+  <div name="hc_survey_effort_page_very_easy_radio">Very easy</div>
+  <div name="hc_survey_effort_page_feedback_question_placeholder">Why's that? (Optional)</div>
+  <div name="hc_survey_issue_resolution_page_not_sure_radio">I'm not sure</div>
+  <div name="hc_survey_issue_resolution_page_question">Did you find the answer you were looking for in the Help Center?</div>
+  <div name="hc_survey_issue_resolution_page_not_resolved_radio">No, my issue was not resolved</div>
+  <div name="hc_survey_issue_resolution_page_found_elsewhere_radio">I found it elsewhere</div>
+  <div name="hc_survey_issue_resolution_page_yes_partially_radio">Yes, partially</div>
+  <div name="hc_survey_issue_resolution_page_yes_completely_radio">Yes, completely</div>
+  <div name="hc_survey_issue_resolution_page_where_question">Where did you best find your answer?</div>
+  <div name="hc_survey_issue_resolution_page_where_question_placeholder">Select</div>
+  <div name="hc_survey_issue_resolution_page_video_option">Video</div>
+  <div name="hc_survey_issue_resolution_page_guide_option">Guide</div>
+  <div name="hc_survey_issue_resolution_page_webinars_option">Webinars</div>
+  <div name="hc_survey_issue_resolution_page_forum_option">Forum</div>
+  <div name="hc_survey_issue_resolution_page_other_option">Other</div>
+  <div name="hc_survey_thank_you">Thanks for your feedback</div>
+  
+  <!-- Login Page DC -->
+  <div name="hc_login_page_acuity_button">Acuity Scheduling</div>
+  <div name="hc_login_page_cant_login_button">Can’t log in?</div>
+  <div name="hc_login_page_dont_have_account_button">I don’t have an account</div>
+  <div name="hc_login_page_squarespace_button">Squarespace</div>
+  <div name="hc_login_page_subtitle">Log into your account so we can customize your experience. </div>
+  <div name="hc_login_page_title">Which account do you need help with today?</div>
+ 
+  <!-- Pre Footer DC -->
+  <div name="hc_footer_pre_footer_community_forum">Community Forum</div>
+  <div name="hc_footer_pre_footer_community_forum_description">Get help from our community on advanced customizations.</div>
+  <div name="hc_footer_pre_footer_community_forum_button">Explore the Forum</div>
+  <div name="hc_footer_pre_footer_webinars">Webinars</div>
+  <div name="hc_footer_pre_footer_webinars_description">Sign up for an interactive session where our experts walk you through Squarespace basics.</div>
+  <div name="hc_footer_pre_footer_webinars_button">Join a Webinar</div>
+  <div name="hc_footer_pre_footer_help_title">Can't find what you're looking for?</div>
+  <div name="hc_footer_pre_footer_help_title_description">We'll help you find the answer or connect with an advisor.</div>
+  <div name="hc_footer_footer_contact_us">Contact Us</div>
+
+  <!-- New Pre Footer DC -->
+  <div name="hc_pre_footer_forum_header">Get help from our community</div>
+  <div name="hc_pre_footer_forum_description">Get help from our community on advanced customizations.</div>
+  <div name="hc_pre_footer_forum_cta">search in the forums</div>
+  <div name="hc_pre_footer_marketplace_header">Hire a Squarespace Expert</div>
+  <div name="hc_pre_footer_marketplace_description">Stand out online with the help of an experienced designer or developer. </div>
+  <div name="hc_pre_footer_marketplace_cta">get matched</div>
+
+  <!-- New KB Guides DC -->
+  <div name="hc_article_page_table_of_contents_header">In this guide</div>
+  <div name="hc_article_page_was_guide_helpful">Was this guide helpful?</div>
+  <div name="hc_article_page_related_guides_header">People also viewed</div>
+  <div name="hc_article_page_upsell_header">Accessing this feature</div>
+  <div name="hc_article_page_note_header">Note</div>
+  <div name="hc_article_page_tip_header">Tip</div>
+  <div name="hc_article_page_survey_question">Did you find the information you were looking for?</div>
+  <div name="hc_article_page_survey_dismissal">Still Browsing</div>
+  <div name="hc_article_page_survey_thank_you">Thank you for your feedback.</div>
+
+  <!-- New Videos Page DC -->
+  <div name="hc_videos_page_hero_title">Learn with videos</div>
+  <div name="hc_videos_page_subtitle">Learn best practices, train yourself, and be confident you're getting the most out of Squarespace.</div>
+  <div name="hc_videos_recommended">Recommended</div>
+  <div name="hc_videos_bite_sized_tutorials">Bite-sized Tutorials</div>
+  <div name="hc_videos_connect_youtube">Connect with us on Youtube</div>
+  <div name="hc_videos_more">More</div>
+  <div name="hc_videos_subscribe">Subscribe</div>
+  <div name="hc_videos_topic">Topic</div>
+  <div name="hc_videos_video_series">Video Series</div>
+  <div name="hc_videos_youtube_connect_subtitle">Find even more resources to help grow your business on our Youtube channel. </div>
+  <div name="hc_videos_view_help_guide">View Help Guide</div>
+  <div name="hc_videos_see_all">See All</div>
+
+  <!-- New Article Page DC -->
+  <div name="hc_article_page_copy_error">Error copying text to clipboard</div>
+  <div name="hc_article_page_copy_success">Successfully copied text to clipboard</div>
+  <div name="hc_article_page_copy">Copy</div>
+  <div name="hc_article_page_toc_header">In this guide</div>
+
+  <!-- Request Page DC -->
+  <div name="hc_request_page_title">Your form was submitted successfully!</div>
+  <div name="hc_request_page_subtitle">A confirmation email has been sent to your address. We will get back to you as soon as we can.</div>
+  <div name="hc_request_page_cta_button">return to Squarespace</div>
+
+  <!-- Priority Support DC -->
+  <div name="hc_contact_options_title">Here are ways to get more help.</div>
+  <div name="hc_contact_priority_support">With priority support, you’ll skip the line and get your request answered first.</div>
+  <div name="hc_contact_email_us">Email Us</div>
+  <div name="hc_contact_live_chat">Live Chat</div>
+  <div name="hc_contact_email_description">Send us a message and read our answer when it’s convenient for you.</div>
+  <div name="hc_contact_live_chat_description">Real-time conversations and immediate answers from our award-winning Customer Support team.</div>
+  <div name="hc_contact_email_time">24 hours a day<br>
+7 days a week</div>
+  <div name="hc_contact_live_chat_time">Monday to Friday<br>
+ 4am to 8pm EST</div>
+  <div name="hc_contact_live_chat_time_aus">Monday to Friday  4am to 8pm EDT</div>
+  <div name="hc_contact_email_cta">contact with email</div>
+  <div name="hc_contact_live_chat_cta">start live chat</div>
+  <div name="hc_contact_live_chat_unavailable">Live chat currently unavailable.</div>
+
+  <!-- GEOGATING -->
+  <div name="hc_contact_page_schedules_json">{"schedules":[{"id":50095,"name":"Business Hours","time_zone":"Eastern Time (US & Canada)","created_at":"2014-10-03T22:10:16Z","updated_at":"2022-10-31T08:17:58Z","intervals":[{"start_time":1680,"end_time":2880},{"start_time":3120,"end_time":4320},{"start_time":4560,"end_time":5760},{"start_time":6000,"end_time":7200},{"start_time":7440,"end_time":8640}]},{"id":360000418191,"name":"Social Team Hours","time_zone":"Eastern Time (US & Canada)","created_at":"2020-09-01T09:34:47Z","updated_at":"2020-09-03T13:07:03Z","intervals":[{"start_time":240,"end_time":1440},{"start_time":1680,"end_time":2880},{"start_time":3120,"end_time":4320},{"start_time":4560,"end_time":5760},{"start_time":6000,"end_time":7200},{"start_time":7440,"end_time":8640},{"start_time":8880,"end_time":10080}]},{"id":360000421112,"name":"Account Management VIP Hours","time_zone":"Eastern Time (US & Canada)","created_at":"2020-09-29T20:18:51Z","updated_at":"2021-03-03T10:38:13Z","intervals":[{"start_time":1440,"end_time":2880},{"start_time":2880,"end_time":4320},{"start_time":4320,"end_time":5760},{"start_time":5760,"end_time":7200},{"start_time":7200,"end_time":8640}]},{"id":5995548166541,"name":"Live Chat Business Hours","time_zone":"Eastern Time (US & Canada)","created_at":"2022-05-04T15:10:42Z","updated_at":"2023-01-08T15:29:29Z","intervals":[{"start_time":1680,"end_time":2640},{"start_time":3120,"end_time":4080},{"start_time":4560,"end_time":5520},{"start_time":6000,"end_time":6960},{"start_time":7440,"end_time":8400}]},{"id":5995587746445,"name":"Live Chat AUS/NZ Hours","time_zone":"Eastern Time (US & Canada)","created_at":"2022-05-04T15:12:38Z","updated_at":"2023-03-14T09:55:18Z","intervals":[{"start_time":1140,"end_time":1440},{"start_time":1440,"end_time":2880},{"start_time":2880,"end_time":4320},{"start_time":4320,"end_time":5760},{"start_time":5760,"end_time":7200},{"start_time":7200,"end_time":8400}]}],"url":"https://squarespace.zendesk.com/api/v2/business_hours/schedules"}</div>
+
+
+</div>
+<script type="text/javascript" src="https://www.squarespace.com/s/cookie-banner.js" defer></script>
+
+
+  <main role="main">
+    <div>
+  <div id="root" style="display: none;"></div>
+  <div id="internal" style="display: none;">false</div>
+  <div id="article-skeleton">
+    <div class="content">
+      <div class="article">
+        <div class="article-wrapper">
+          <div class="breadcrumb"></div>
+          <div class="title">The cookies Squarespace uses</div>
+          <div class="controls">
+            <div class="date"></div>
+            <div class="locale"></div>
+          </div>
+          <div class="article-header"></div>
+          <div class="video">
+            <svg width="57" height="66" viewBox="0 0 57 66" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M57 33L-3.09953e-06 65.909L-2.22536e-07 0.0910314L57 33Z" fill="white"/>
+            </svg>
+          </div>
+          <div class="body"></div>
+        </div>
+      </div>
+      <div class="menu">
+        <div class="menu-title">In this guide</div>
+        <div class="divider"></div>
+        <div class="menu-header"></div>
+        <div class="anchor"></div>
+        <div class="anchor"></div>
+        <div class="anchor"></div>
+        <div class="anchor"></div>
+        <div class="anchor"></div>
+        <div class="anchor"></div>
+      </div>
+    </div>
+  </div>
+  <div id="page-article" style="display: none;" class="main-inner article-page">
+    <div class="clearfix default-row">
+      <div class="constrain">
+        <article class="main-column">
+          <header class="article-header clearfix">
+            <div class="announcement-home-page">
+              <div class="announcement-block" id="language-announcement-block">
+<strong>Note: While our most popular guides have been translated into Spanish, some guides are only available in English.</strong>
+</div>
+            </div>
+            <h1>
+              
+              The cookies Squarespace uses
+            </h1>
+            <div class="dateline">
+              Last updated <time datetime="2022-11-30T21:04:38Z" title="2022-11-30T21:04:38Z" data-format="LL" data-datetime="calendar">November 30, 2022 21:04</time>
+            </div>
+          </header>
+          <div class="subtle-wrap">
+            <div class="article-body">
+              <aside class="table-of-contents load" style="display: none;">
+                <h2 class="toc-title">Sections</h2>
+                <ol class="toc-links"></ol>
+              </aside>
+              <h4 class="blurb">How the different cookies we place enhance the browsing experience.</h4>
+<p>We use cookies to help your site run effectively and provide the best experience for your visitors. This guide describes the cookies we place on visitors to your Squarespace site. This guide doesn’t cover the cookies Squarespace uses on visitors to our websites or users of our web or mobile apps.</p>
+<p>For more information about our use of cookies, including cookies we use on squarespace.com and our web and mobile apps, visit our <a href="https://www.squarespace.com/cookie-policy/">Cookie Policy</a> and <a href="https://www.squarespace.com/privacy/">Privacy Policy</a>.</p>
+<h2>What are cookies?</h2>
+<p>Cookies are small pieces of data that websites store on a device. Cookies can improve your visitors’ browsing experience because they help websites remember preferences and understand how people use different features.</p>
+<h2>Functional and required cookies</h2>
+<p>Squarespace uses some necessary cookies so visitors can navigate and use key features on your site. These cookies vary from site to site depending on the features it uses. For example, functional and required cookies help these features work:</p>
+<ul>
+<li><a href="/hc/articles/115012777327">Customer accounts</a></li>
+<li><a href="/hc/articles/206541027">Shopping cart and checkout</a></li>
+<li><a href="/hc/articles/205815308">URL redirects</a></li>
+</ul>
+<table style="width: 683px; height: 2118px;">
+<tbody>
+<tr class="table-header" style="height: 21px;">
+<td style="width: 276.016px; height: 21px;">
+<p><strong>Name</strong></p>
+</td>
+<td style="width: 383.984px; height: 21px;">
+<p><strong>Purpose, type, and duration</strong></p>
+</td>
+</tr>
+<tr style="height: 87px;">
+<td style="width: 276.016px; height: 87px;">
+<p>_acloggedin</p>
+</td>
+<td style="width: 383.984px; height: 87px;">
+<ul>
+<li>Supports login by Scheduling client if the client has an account</li>
+<li>Cookie</li>
+<li>January 1, 2025</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 87px;">
+<td style="width: 276.016px; height: 87px;">
+<p>_client_acloggedin</p>
+</td>
+<td style="width: 383.984px; height: 87px;">
+<ul>
+<li>Supports login by Scheduling client if the client has an account</li>
+<li>Cookie</li>
+<li>January 1, 2025</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 110px;">
+<td style="width: 276.016px; height: 110px;">
+<p>algoliasearch-client-js</p>
+</td>
+<td style="width: 383.984px; height: 110px;">
+<ul>
+<li>Adds auto-populated suggestions to address fields in Scheduling to help clients complete forms faster</li>
+<li>localstorage</li>
+<li>Persistent</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 87px;">
+<td style="width: 276.016px; height: 87px;">
+<p>CART</p>
+</td>
+<td style="width: 383.984px; height: 87px;">
+<ul>
+<li>Shows when a visitor adds a product to their cart</li>
+<li>Cookie</li>
+<li>Two weeks</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 87px;">
+<td style="width: 276.016px; height: 87px;">
+<p>CHECKOUT_WEBSITE</p>
+</td>
+<td style="width: 383.984px; height: 87px;">
+<ul>
+<li>Identifies the correct site for checkout when <a href="/hc/articles/115004908508" target="_self">checkout on your domain</a> is disabled</li>
+<li>Cookie</li>
+<li>Session</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 89px;">
+<td style="width: 276.016px; height: 89px;">
+<p>client_username</p>
+</td>
+<td style="width: 383.984px; height: 89px;">
+<ul>
+<li>Remembers a logged in Scheduling client's username between visits</li>
+<li>Cookie</li>
+<li>One year</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 87px;">
+<td style="width: 276.016px; height: 87px;">
+<p>Commerce-checkout-state</p>
+</td>
+<td style="width: 383.984px; height: 87px;">
+<ul>
+<li>Stores state of checkout while the visitor is completing their order in PayPal</li>
+<li>sessionstorage</li>
+<li>Session</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 65px;">
+<td style="width: 276.016px; height: 65px;">
+<p>Crumb</p>
+</td>
+<td style="width: 383.984px; height: 65px;">
+<ul>
+<li>Prevents <a href="/hc/articles/360001264507#csrf" target="_self">cross-site request forgery (CSRF)</a></li>
+<li>Cookie</li>
+<li>Session</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 65px;">
+<td style="width: 276.016px; height: 65px;">
+<p>hasCart</p>
+</td>
+<td style="width: 383.984px; height: 65px;">
+<ul>
+<li>Tells Squarespace that the visitor has a cart</li>
+<li>Cookie</li>
+<li>Two weeks</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 110px;">
+<td style="width: 276.016px; height: 110px;">
+<p>Locked</p>
+</td>
+<td style="width: 383.984px; height: 110px;">
+<ul>
+<li>Prevents the password-protected screen from displaying if a visitor enters the correct site-wide password.</li>
+<li>Cookie</li>
+<li>Session</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 110px;">
+<td style="width: 276.016px; height: 110px;">
+<p>orderStatusSessionToken</p>
+</td>
+<td style="width: 383.984px; height: 110px;">
+<ul>
+<li>Authenticates a visitor who logs into an order status page.</li>
+<li>Cookie</li>
+<li>One year</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 87px;">
+<td style="width: 276.016px; height: 87px;">
+<p>PHPSESSID</p>
+</td>
+<td style="width: 383.984px; height: 87px;">
+<ul>
+<li>Securely authenticates a visitor during their checkout in Scheduling</li>
+<li>Cookie</li>
+<li>One month</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 87px;">
+<td style="width: 276.016px; height: 87px;">
+<p>RecentRedirect</p>
+</td>
+<td style="width: 383.984px; height: 87px;">
+<ul>
+<li>Prevents redirect loops if a site has <a href="/hc/articles/205815308">custom URL redirects</a>. Redirect loops are bad for SEO.</li>
+<li>Cookie</li>
+<li>30 minutes</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 87px;">
+<td style="width: 276.016px; height: 87px;">
+<p>remember_client</p>
+</td>
+<td style="width: 383.984px; height: 87px;">
+<ul>
+<li>Remembers Scheduling client’s login details if they have an account</li>
+<li>Cookie</li>
+<li>365 days</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 87px;">
+<td style="width: 276.016px; height: 87px;">
+<p>siteUserCrumb</p>
+</td>
+<td style="width: 383.984px; height: 87px;">
+<ul>
+<li>Prevents <a href="/hc/articles/360001264507#csrf" target="_self">cross-site request forgery (CSRF)</a> for logged in site users</li>
+<li>Cookie</li>
+<li>Three years</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 87px;">
+<td style="width: 276.016px; height: 87px;">
+<p>SiteUserInfo</p>
+</td>
+<td style="width: 383.984px; height: 87px;">
+<ul>
+<li>Identifies a visitor who logs into a <a href="/hc/articles/115012777327">customer account</a></li>
+<li>Cookie</li>
+<li>Three years</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 87px;">
+<td style="width: 276.016px; height: 87px;">
+<p>SiteUserSecureAuthToken</p>
+</td>
+<td style="width: 383.984px; height: 87px;">
+<ul>
+<li>Authenticates a visitor who logs into a customer account</li>
+<li>Cookie</li>
+<li>Three years</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 87px;">
+<td style="width: 276.016px; height: 87px;">
+<p>squarespace-announcement-bar</p>
+</td>
+<td style="width: 383.984px; height: 87px;">
+<ul>
+<li>Prevents the <a href="/hc/articles/205815318">announcement bar</a> from displaying if a visitor dismisses it</li>
+<li>localstorage</li>
+<li>Persistent</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 65px;">
+<td style="width: 276.016px; height: 65px;">
+<p>squarespace-likes</p>
+</td>
+<td style="width: 383.984px; height: 65px;">
+<ul>
+<li>Shows when you've already "liked" a blog post</li>
+<li>localstorage</li>
+<li>Persistent</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 87px;">
+<td style="width: 276.016px; height: 87px;">
+<p>squarespace-popup-overlay</p>
+</td>
+<td style="width: 383.984px; height: 87px;">
+<ul>
+<li>Prevents the <a href="/hc/articles/115008375848">promotional pop-up</a> from displaying if a visitor dismisses it</li>
+<li>localstorage</li>
+<li>Persistent</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 134px;">
+<td style="width: 276.016px; height: 134px;">
+<p>squarespace-video-player-options</p>
+</td>
+<td style="width: 383.984px; height: 134px;">
+<ul>
+<li>Remembers video player selected preferences ( volume, playback speed, and quality) for videos <a href="/hc/articles/206542397#toc-option-2---upload-videos" target="_self">uploaded directly to Squarespace</a></li>
+<li>localstorage</li>
+<li>Persistent</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 276.016px; height: 21px;">ss_cookieAllowed</td>
+<td style="width: 383.984px; height: 21px;">
+<ul>
+<li>Remembers if a visitor agreed to placing analytics cookies on their browser if a site is restricting the placement of cookies</li>
+<li>Cookie</li>
+<li>30 days</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 110px;">
+<td style="width: 276.016px; height: 110px;">
+<p>ss_sd</p>
+</td>
+<td style="width: 383.984px; height: 110px;">
+<ul>
+<li>Ensures that visitors on the <a href="/hc/articles/206536817" target="_self">Squarespace 5 platform</a> remain authenticated during their sessions</li>
+<li>Cookie</li>
+<li>Session</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 87px;">
+<td style="width: 276.016px; height: 87px;">
+<p>Test</p>
+</td>
+<td style="width: 383.984px; height: 87px;">
+<ul>
+<li>Investigates if the browser supports cookies and prevents errors</li>
+<li>Cookie</li>
+<li>Session</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 110px;">
+<td style="width: 276.016px; height: 110px;">
+<p>TZ</p>
+</td>
+<td style="width: 383.984px; height: 110px;">
+<ul>
+<li>Enables a Scheduling client’s appointments to display correctly based on their time zone preferences.</li>
+<li>localstorage</li>
+<li>Persistent</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<h3 id="csrf">Cross-site request forgery (CSRF)</h3>
+<p>CSRF is an attack vector that tricks a browser into taking unwanted action in an application when someone’s logged in.</p>
+<h2>Analytics and performance cookies</h2>
+<p>We use analytics and performance cookies to collect information on your behalf about how visitors interact with your site. Storing these cookies is how we populate the data you find in <a href="/hc/articles/206544167">Squarespace analytics</a>, such as <a href="/hc/articles/217551548">traffic sources</a>, <a href="/hc/articles/217999797#toc-unique-visitors">unique visitors</a>, and <a href="/hc/articles/217552178">cart abandonment</a>.</p>
+<p>You can <a href="/hc/articles/360001264507#toc-disable-analytics-and-performance-cookies" target="_self">disable Squarespace analytics and performance cookies</a> at any time.</p>
+<table style="height: 236px;">
+<tbody>
+<tr class="table-header" style="height: 21px;">
+<td style="height: 21px; width: 163.312px;">
+<p><strong>Cookie Name</strong></p>
+</td>
+<td style="height: 21px; width: 127.766px;">
+<p><strong>Duration</strong></p>
+</td>
+<td style="height: 21px; width: 374.438px;">
+<p><strong>Purpose</strong></p>
+</td>
+</tr>
+<tr style="height: 43px;">
+<td style="height: 43px; width: 163.312px;">
+<p>ss_cid</p>
+</td>
+<td style="height: 43px; width: 127.766px;">
+<p>Two years</p>
+</td>
+<td style="height: 43px; width: 374.438px;">
+<p>Identifies unique visitors and tracks a visitor’s sessions on a site</p>
+</td>
+</tr>
+<tr style="height: 43px;">
+<td style="height: 43px; width: 163.312px;">
+<p>ss_cpvisit</p>
+</td>
+<td style="height: 43px; width: 127.766px;">
+<p>Two years</p>
+</td>
+<td style="height: 43px; width: 374.438px;">
+<p>Identifies unique visitors and tracks a visitor’s sessions on a site</p>
+</td>
+</tr>
+<tr style="height: 43px;">
+<td style="height: 43px; width: 163.312px;">
+<p>ss_cvisit</p>
+</td>
+<td style="height: 43px; width: 127.766px;">
+<p>30 minutes</p>
+</td>
+<td style="height: 43px; width: 374.438px;">
+<p>Identifies unique visitors and tracks a visitor’s sessions on a site</p>
+</td>
+</tr>
+<tr style="height: 43px;">
+<td style="height: 43px; width: 163.312px;">
+<p>ss_cvr</p>
+</td>
+<td style="height: 43px; width: 127.766px;">
+<p>Two years</p>
+</td>
+<td style="height: 43px; width: 374.438px;">
+<p>Identifies unique visitors and tracks a visitor’s sessions on a site</p>
+</td>
+</tr>
+<tr style="height: 43px;">
+<td style="height: 43px; width: 163.312px;">
+<p>ss_cvt</p>
+</td>
+<td style="height: 43px; width: 127.766px;">
+<p>30 minutes</p>
+</td>
+<td style="height: 43px; width: 374.438px;">
+<p>Identifies unique visitors and tracks a visitor’s sessions on a site</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>Disable analytics and performance cookies</h2>
+<p>To stop Squarespace from placing these cookies on visitors’ browsers, you can disable analytics and performance cookies at any time:</p>
+<ol>
+<li>In the <strong>Home menu</strong>, click <strong>Settings</strong>, and then click <strong>Cookies &amp; visitor data</strong>.</li>
+<li>Switch the <strong>Disable Squarespace analytics cookies </strong>toggle on.</li>
+<li>To also <a href="/hc/articles/206545727" target="_self">display a cookie banner</a>, switch the <strong>Cookie banner</strong> toggle on. To keep cookies disabled, under <strong>Disable Squarespace analytics cookies</strong>, check <strong>Disable analytics tracking even when users accept cookies</strong>.</li>
+<li>Click <strong>Save</strong>.</li>
+</ol>
+<p>You can also disable collecting these cookies from visitors until they accept your cookie policy in a cookie banner.</p>
+<p>Disabling Squarespace analytics and performance cookies doesn’t disable cookies placed by <a href="/hc/articles/360000851908#toc-using-squarespace-with-third-party-services" target="_self">third-party services connected to your site</a>, such as Facebook Pixel or Google Analytics.</p>
+<h3>How disabling cookies changes what appears in analytics</h3>
+<p>After you disable analytics cookies, some data in Squarespace analytics won’t be a complete or accurate representation of visitor behavior.</p>
+<p>Each pageview event counts like it’s from a new visitor each time. As a result, visits and unique visitors might appear much higher than normal. Each pageview counts as its own visit, when in reality, one visitor might view multiple pages. So, it might look like you have more visitors than you actually have in panels like:</p>
+<ul>
+<li>Traffic</li>
+<li>Sales</li>
+</ul>
+<p>Another effect of disabling cookies is that clicks, order conversion rates, and referrer attributions in panels like <a href="/hc/articles/217551548" target="_self">Traffic sources</a> and <a href="/hc/articles/115015424067" target="_self">Form &amp; button conversions</a> won’t be accurate. This is because disabling cookies prevents analytics from connecting consecutive visitor events in the same session.</p>
+<p>Additionally, if someone visited your site before you disabled cookies and returns when cookies are disabled, that person counts as a new visitor, because we’ll ignore those cookies and try to remove them to follow your decision.</p>
+<h2>Check your cookies</h2>
+<p>For the most common browsers, you can:</p>
+<ul>
+<li>Review which cookies are active in your browser’s settings.</li>
+<li>Clear cookies from your browser or device, either globally or from a specific website.</li>
+</ul>
+<p>For help locating cookies on your device, visit your browser's documentation:</p>
+<ul>
+<li><a href="https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&amp;hl=en">Chrome</a></li>
+<li><a href="https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer">Firefox</a></li>
+<li><a href="https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac" target="_self">Safari</a></li>
+<li><a href="https://support.microsoft.com/en-us/microsoft-edge/view-cookies-in-microsoft-edge-a7d95376-f2cd-8e4a-25dc-1de753474879" target="_self">Microsoft Edge</a></li>
+</ul>
+<h2>Add a cookie banner</h2>
+<p>Certain laws may require website owners to inform their visitors of cookies and ask for visitors’ consent to use them. To learn how to add a notice to your site, visit <a href="/hc/articles/206545727">Adding a cookie banner</a>.</p>
+            </div>
+            
+              <div class="article-vote-legacy">
+                <span class="article-vote-question">Was this article helpful?</span>
+                <div class="article-vote-controls">
+                  <button type="button" class="article-vote-up" data-helper="vote" data-item="article" data-type="up" data-id="360001264507" data-upvote-count="274" data-vote-count="445" data-vote-sum="103" data-vote-url="/hc/en-us/articles/360001264507/vote" data-value="null" data-label="274 out of 445 found this helpful" data-selected-class="article-voted" aria-label="This article was helpful" aria-pressed="false">Yes</button>
+                  <button type="button" class="article-vote-down" data-helper="vote" data-item="article" data-type="down" data-id="360001264507" data-upvote-count="274" data-vote-count="445" data-vote-sum="103" data-vote-url="/hc/en-us/articles/360001264507/vote" data-value="null" data-label="274 out of 445 found this helpful" data-selected-class="article-voted" aria-label="This article was not helpful" aria-pressed="false">No</button>
+                </div>
+                <small class="article-vote-count">
+                  <span class="article-vote-label" data-helper="vote" data-item="article" data-type="label" data-id="360001264507" data-upvote-count="274" data-vote-count="445" data-vote-sum="103" data-vote-url="/hc/en-us/articles/360001264507/vote" data-value="null" data-label="274 out of 445 found this helpful">274 out of 445 found this helpful</span>
+                </small>
+              </div>
+            
+          </div>
+
+          <div class="article-more clearfix">
+            <div data-recent-articles></div>
+            
+  <section class="related-articles">
+    
+      <h2 class="related-articles-title">Related articles</h2>
+    
+    <ul>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkEP6NPDDoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCHtbv9FTADoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSI4L2hjL2VuLXVzL2FydGljbGVzLzIwNjU0NTcyNy1BZGRpbmctYS1jb29raWUtYmFubmVyBjsIVDoJcmFua2kG--a4f152ab6590ba5fa708e17d5bf22ac15fc530ec" rel="nofollow">Adding a cookie banner</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCKN2zNFTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCHtbv9FTADoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJML2hjL2VuLXVzL2FydGljbGVzLzM2MDAwMjEyMzQyNy1TYW1wbGUtbWVzc2FnZXMtZm9yLXlvdXItcHJpdmFjeS1wb2xpY3kGOwhUOglyYW5raQc%3D--d66b54b3888641642543f1d9d5238744ee6a90cc" rel="nofollow">Sample messages for your privacy policy</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCMQPudFTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCHtbv9FTADoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSI5L2hjL2VuLXVzL2FydGljbGVzLzM2MDAwMDg1MTkwOC1HRFBSLWFuZC1TcXVhcmVzcGFjZQY7CFQ6CXJhbmtpCA%3D%3D--cd26dca9480018bca7365d160db03119eac299d6" rel="nofollow">GDPR and Squarespace</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCNCIwNFTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCHtbv9FTADoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJML2hjL2VuLXVzL2FydGljbGVzLzM2MDAwMTM0MTY0OC1TaGFyaW5nLXBvbGljaWVzLWFuZC10ZXJtcy1vbi15b3VyLXNpdGUGOwhUOglyYW5raQk%3D--1a1f4b884bd5e977d28a0f329b2c0042885dbf27" rel="nofollow">Sharing policies and terms on your site</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkEJ51PDDoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCHtbv9FTADoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSI3L2hjL2VuLXVzL2FydGljbGVzLzIwNjU0NDE2Ny1TcXVhcmVzcGFjZS1BbmFseXRpY3MGOwhUOglyYW5raQo%3D--ccf166bff75762288ed4be25e91d4520d7d1c384" rel="nofollow">Squarespace Analytics</a>
+        </li>
+      
+    </ul>
+  </section>
+
+
+          </div>
+        </article>
+
+        <!-- SIDE NAVIGATION -->
+        <div class="article-sidebar">
+          <div class="sidebar-menu">
+            <span class="icon-menu"></span>
+          </div>
+          <div id="side-navigation">
+            <div class="sidebar-menu-inner">
+              <span class="icon-menu"></span>
+              <span class="sidebar-menu-title">Navigation</span>
+            </div>
+            <ul class="sidebar-nav-categories"></ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="article-vote" style="display: none">
+  <button type="button" class="article-vote-up" data-helper="vote" data-item="article" data-type="up" data-id="360001264507" data-upvote-count="274" data-vote-count="445" data-vote-sum="103" data-vote-url="/hc/en-us/articles/360001264507/vote" data-value="null" data-label="274 out of 445 found this helpful" data-selected-class="article-voted" aria-label="This article was helpful" aria-pressed="false">Yes</button>
+  <button type="button" class="article-vote-down" data-helper="vote" data-item="article" data-type="down" data-id="360001264507" data-upvote-count="274" data-vote-count="445" data-vote-sum="103" data-vote-url="/hc/en-us/articles/360001264507/vote" data-value="null" data-label="274 out of 445 found this helpful" data-selected-class="article-voted" aria-label="This article was not helpful" aria-pressed="false">No</button>
+</div>
+
+<div class="hide">
+  <ol class="breadcrumbs">
+  
+    <li title="Squarespace Help Center">
+      
+        <a href="/hc/en-us">Squarespace Help Center</a>
+      
+    </li>
+  
+    <li title="Privacy and Security">
+      
+        <a href="/hc/en-us/categories/200290418-Privacy-and-Security">Privacy and Security</a>
+      
+    </li>
+  
+    <li title="Cookies, privacy, and policies">
+      
+        <a href="/hc/en-us/sections/360000340467-Cookies-privacy-and-policies">Cookies, privacy, and policies</a>
+      
+    </li>
+  
+</ol>
+
+  <span class="article-title">The cookies Squarespace uses</span>
+</div>
+
+  </main>
+
+  <footer class="footer" style="display: none;">
+  <div class="pre-footer"></div>
+  <div class="footer_nav_container">
+    <div class="footer_brand">
+      <a class="footer_logo_link" href="https://support.squarespace.com/hc/">
+        <div class="footer_logo_full"></div>
+        <div class="footer_logo_mark"></div>
+      </a>
+      
+      <a id="mf_toggle"></a>
+      <a style="display: none;" id="current-locale" class="locale-switcher-language">
+        English (US)
+      </a>
+      
+      <a style="display: none;" class="locale-switcher-language" href="/hc/change_language/de?return_to=%2Fhc%2Fde%2Farticles%2F360001264507-%25C3%259Cber-die-von-Squarespace-verwendeten-Cookies" dir="ltr" rel="nofollow">
+        Deutsch
+      </a>
+      
+      <a style="display: none;" class="locale-switcher-language" href="/hc/change_language/es?return_to=%2Fhc%2Fes%2Farticles%2F360001264507-Acerca-de-las-cookies-que-utiliza-Squarespace" dir="ltr" rel="nofollow">
+        Español
+      </a>
+      
+      <a style="display: none;" class="locale-switcher-language" href="/hc/change_language/fr-fr?return_to=%2Fhc%2Ffr-fr%2Farticles%2F360001264507-Les-cookies-utilis%25C3%25A9s-par-Squarespace" dir="ltr" rel="nofollow">
+        Français (France)
+      </a>
+      
+      <a style="display: none;" class="locale-switcher-language" href="/hc/change_language/it?return_to=%2Fhc%2Fit%2Farticles%2F360001264507-Cookie-utilizzati-da-Squarespace" dir="ltr" rel="nofollow">
+        Italiano
+      </a>
+      
+      <a style="display: none;" class="locale-switcher-language" href="/hc/change_language/pt?return_to=%2Fhc%2Fpt%2Farticles%2F360001264507-Os-cookies-que-o-Squarespace-usa" dir="ltr" rel="nofollow">
+        Português
+      </a>
+      
+      
+    </div>
+    <div class="footer_navigation">
+      <div class="footer_nav_list">
+        <h4 class="footer_nav_titles">
+          SUPPORT
+          <div class="footer_nav_arrow">↓</div>
+        </h4>
+        <ul class="footer_nav_content">
+          <li>
+            <a class="footer_nav_link footer_contact_us" href="/hc/requests/new#choose-topic">
+              Contact Us
+            </a>
+          </li>
+          <li>
+            <a class="footer_nav_link footer_status" target="_blank" rel="noopener"
+              href="https://status.squarespace.com" onclick="">
+              Service Status
+            </a>
+          </li>
+          <li>
+            <a class="footer_nav_link footer_twitter" target="_blank" rel="noopener"
+              href="https://www.twitter.com/squarespacehelp?lang=en">
+              @SquarespaceHelp
+            </a>
+          </li>
+          <li>
+            <a class="footer_nav_link footer_v5" target="_blank" rel="noopener"
+              href="https://5help.squarespace.com/hc/">
+              Squarespace 5
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="footer_nav_list">
+        <h4 class="footer_nav_titles">
+          COMMUNITY
+          <div class="footer_nav_arrow">↓</div>
+        </h4>
+        <ul class="footer_nav_content">
+          <li>
+            <a class="footer_nav_link footer_forum" target="_blank" rel="noopener"
+              href="https://forum.squarespace.com">
+              Forum
+            </a>
+          </li>
+          <li>
+            <a class="footer_nav_link footer_circle_designer" target="_blank" rel="noopener"
+              href="http://sqsp.link/TBsAMJ">
+              Hire a Designer
+            </a>
+          </li>
+          <li>
+            <a class="footer_nav_link footer_workshop " target="_blank"
+              rel="noopener" href="https://learning.squarespace.com">
+              Webinars
+            </a>
+          </li>
+          <li>
+            <a class="footer_nav_link footer_blog" target="_blank" rel="noopener" href="https://blog.squarespace.com/">
+              Blog
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="footer_nav_list">
+        <h4 class="footer_nav_titles">
+          DEVELOPERS
+          <div class="footer_nav_arrow">↓</div>
+        </h4>
+        <ul class="footer_nav_content">
+          <li>
+            <a class="footer_nav_link footer_developer_api" target="_blank" rel="noopener"
+              href="https://developers.squarespace.com/commerce-api">
+              API Docs
+            </a>
+          </li>
+          <li>
+            <a class="footer_nav_link footer_circle" target="_blank" rel="noopener"
+              href="https://www.squarespace.com/circle">
+              Circle
+            </a>
+          </li>
+          <li>
+            <a class="footer_nav_link footer_developers" target="_blank" rel="noopener"
+              href="https://developers.squarespace.com">
+              Developer Platform
+            </a>
+          </li>
+          <li>
+            <a class="footer_nav_link footer_enterprise" target="_blank" rel="noopener"
+              href="https://www.squarespace.com/select">
+              ENTERPRISE
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="footer_nav_list">
+        <h4 class="footer_nav_titles">
+          RESOURCES
+          <div class="footer_nav_arrow">↓</div>
+        </h4>
+        <ul class="footer_nav_content">
+          <li>
+            <a class="footer_nav_link footer_templates" target="_blank" rel="noopener"
+              href="https://www.squarespace.com/templates">
+              Website Templates
+            </a>
+          </li>
+          <li>
+            <a class="footer_nav_link footer_designer" target="_blank" rel="noopener"
+              href="https://www.squarespace.com/website-design">
+              Website Design
+            </a>
+          </li>
+          <li>
+            <a class="footer_nav_link footer_domain" target="_blank" rel="noopener"
+              href="https://www.squarespace.com/domain-name-search">
+              Domain Name Search
+            </a>
+          </li>
+          <li>
+            <a class="footer_nav_link footer_online_store" target="_blank" rel="noopener"
+              href="https://www.squarespace.com/ecommerce-website">
+              Online Stores
+            </a>
+          </li>
+          <li>
+            <a class="footer_nav_link footer_marketing" target="_blank" rel="noopener"
+              href="https://www.squarespace.com/website-marketing">
+              Website Marketing
+            </a>
+          </li>
+          <li>
+            <a class="footer_nav_link footer_tos" target="_blank" rel="noopener"
+              href="https://www.squarespace.com/terms-of-service">
+              Terms of Service
+            </a>
+          </li>
+          <li>
+            <a class="footer_nav_link footer_privacy" target="_blank" rel="noopener"
+              href="https://www.squarespace.com/privacy">
+              Privacy Policy
+            </a>
+          </li>
+          <li>
+            <div id="teconsent"></div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- Ends site-wrapper -->
+
+<script>
+  window.ssoResolve = null;
+  window.SQSP_SESSION = new Promise(resolve => (ssoResolve = resolve));
+</script>
+
+<script type="text/javascript">
+  var articlePageRegex = "\/articles\/([a-zA-Z0-9-_.%\/]+)*$";
+  var homePageRegex = "\/hc\/(en-us|fr-fr|es|it|pt|de)$";
+  var isArticlePage = new RegExp(articlePageRegex).test(window.location.pathname);
+  var isHomePage = new RegExp(homePageRegex).test(window.location.pathname);
+  
+  if (isArticlePage) {
+    document.querySelector('.header').style.background = "#000";
+    document.querySelector('.footer').style.display = "block";
+  } else if (!isHomePage) {
+    document.querySelector('.loading-indicator').style.display = "flex";
+    document.querySelector('.site-wrapper').style.display = "none";
+  }
+</script>
+
+<script type="text/javascript" src="" defer="defer"></script>
+<script type="text/javascript" src="" defer="defer"></script>
+<script type="text/javascript" src="" defer="defer"></script>
+<script type="text/javascript" src="//theme.zdassets.com/theme_assets/593095/e974bd69281239e84bb57e38c65ff0f8079b4c30.js" defer="defer"></script>
+<script type="text/javascript" src="//theme.zdassets.com/theme_assets/593095/b5a3940fdf5dff8e1506280c3c0ac040a72fb160.js" defer="defer"></script>
+<script src="https://cdn.jsdelivr.net/npm/react@16.13.1/umd/react.production.min.js"
+  integrity="sha256-yUhvEmYVhZ/GGshIQKArLvySDSh6cdmdcIx0spR3UP4=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/react-dom@16.13.1/umd/react-dom.production.min.js"
+  integrity="sha256-vFt3l+illeNlwThbDUdoPTqF81M8WNSZZZt3HEjsbSU=" crossorigin="anonymous"></script>
+
+<script type="text/javascript">
+  function tracking(location) {
+    window.ga("send", "event", "PreFooter", "click", location);
+  }
+</script>
+
+<script type="text/javascript">
+  setTimeout(() => {
+    const loadingIndicator = document.querySelector('.loading-indicator');
+    const siteWrapper = document.querySelector('.site-wrapper');
+    const footer = document.querySelector('.footer');
+    if (loadingIndicator) { loadingIndicator.style.display = 'none' }
+    if (siteWrapper) { siteWrapper.style.display = 'block' }
+    if (footer) { footer.style.display = 'block' }
+  }, 3000);
+</script>
+
+<script defer="defer">
+  setTimeout(function () {
+    $("a.nesty-input").click(function () {
+      $("li#54987").hide();
+    });
+  }, 1000);
+</script>
+
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/en-us.2c1c05b882e460a1c739.js"></script>
+  <script src="https://squarespace.zendesk.com/auth/v2/host/without_iframe.js" data-brand-id="167125" data-return-to="https://support.squarespace.com/hc/en-us/articles/360001264507" data-theme="hc" data-locale="en-us" data-auth-origin="167125,true,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"squarespace","environment":"production","name":"Support"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":"","role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"en-us","csrf_token":"hc:hcobject:server:JmHYfe0ijgilNSLszKL8nSzxYoOyH1kL31f0CsoLQ3hFsLd4cRIUpU6m9PaZ6sZzzdOJqwtCXXT4_ynz8yumSw","shared_csrf_token":null},"settings":{},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIKZW4tdXMGOgZFVDoPYXJ0aWNsZV9pZGwrCHtbv9FTADoKX21ldGF7CzoPYWNjb3VudF9pZGkDxwwJOhNoZWxwX2NlbnRlcl9pZGkErczsCzoNYnJhbmRfaWRpA9WMAjoMdXNlcl9pZDA6E3VzZXJfcm9sZV9uYW1lSSIOQU5PTllNT1VTBjsGVDsASSIKZW4tdXMGOwZU--6dfaee67c8e1b0be630ae6a4d40ae5ed062e6a96","url":"https://support.squarespace.com/hc/activity"},"current_record_id":"360001264507","current_record_url":"/hc/en-us/articles/360001264507-The-cookies-Squarespace-uses","current_record_title":"The cookies Squarespace uses","search_results_count":null,"current_text_direction":"ltr","current_brand":{"id":167125,"account_id":593095,"name":"Squarespace","active":true,"deleted_at":null,"created_at":"2014-10-03T22:05:14Z","updated_at":"2022-12-19T17:22:36Z","route_id":487612,"signature_template":"{{agent.signature}}"},"current_brand_url":"https://squarespace.zendesk.com","current_host_mapping":"support.squarespace.com","current_path":"/hc/en-us/articles/360001264507-The-cookies-Squarespace-uses","authentication_domain":"https://squarespace.zendesk.com","show_autocomplete_breadcrumbs":true,"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":true,"has_multi_language_help_center":true,"mobile_device":false,"mobile_site_enabled":false,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","manage_content_url":"https://support.squarespace.com/hc/en-us","arrange_content_url":"https://support.squarespace.com/hc/admin/arrange_contents?locale=en-us","general_settings_url":"https://support.squarespace.com/hc/admin/general_settings?locale=en-us","user_segments_url":"https://squarespace.zendesk.com/knowledge/user_segments?brand_id=167125","has_gather":true,"has_community_enabled":false,"has_community_badges":true,"has_community_post_content_tagging":false,"has_gather_content_tags":true,"has_guide_content_tags":true,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"has_edit_user_profile_v2":false,"has_change_password_modal_v2":false,"has_garden_modals":false,"has_suppress_request_email_modal":true,"billing_url":"/access/return_to?return_to=https%3A%2F%2Fsquarespace.zendesk.com%2Fadmin%2Fbilling%2Fsubscription","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd807091-preview","is_preview":false,"has_alternate_templates":true,"arrange_articles_url":"https://squarespace.zendesk.com/knowledge/arrange?brand_id=167125","article_verification_url":"https://squarespace.zendesk.com/knowledge/verification?brand_id=167125","has_article_verification":true,"guide_language_settings_url":"https://support.squarespace.com/hc/admin/language_settings?locale=en-us","docs_importer_url":"https://squarespace.zendesk.com/knowledge/import_articles?brand_id=167125","content_tags_url":"https://squarespace.zendesk.com/knowledge/content_tags?brand_id=167125","community_badges_url":"https://squarespace.zendesk.com/knowledge/community_badges?brand_id=167125","community_settings_url":"https://squarespace.zendesk.com/knowledge/community_settings?brand_id=167125","gather_plan_state":"subscribed","search_settings_url":"https://squarespace.zendesk.com/knowledge/search_settings?brand_id=167125","has_multibrand_search_in_plan":true,"theming_api_version":2,"theming_settings":{"logo":"//theme.zdassets.com/theme_assets/593095/169fbda2a37d0b7eb368b5518b40614cf7e6074f.svg","favicon":"//theme.zdassets.com/theme_assets/593095/5d91cfd1e92ec871caff7bb9ffce5102e28676df.ico","sqsp_survey_2021_enabled":true,"sqsp_survey_2021":"6","guide_survey_delay_time":"45","sqsp_survey_2021_delay":"420","aus_live_chat_enabled":true,"sso_enabled":true,"sso_anonymous":true,"sso_end_user":true,"sso_agent":false,"sso_admin":false,"sso_internal":false,"sso_group_filter":"","sqsp_employees":true,"german_live_chat_enabled":false,"scheduling_live_chat_enabled":true,"live_person_is_enabled":false},"has_pci_credit_card_custom_field":true,"current_brand_id":167125,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"has_end_user_apps":true,"has_request_list_custom_fields":true,"has_docs_importer":false,"has_sunco_widget_kill_switch":false,"user_preferred_locale":"en-us","has_end_user_session_renewal":true,"has_reload_page_after_changing_password":true,"has_user_session_cookie_enabled":false,"has_google_analytics_4":true,"version":"v22603"};
+</script>
+
+  
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-05c4a7fbafcb2009dbf78fea1067ac55.js"></script>
+  <script type="text/javascript" src="//p13.zdassets.com/hc/theming_assets/593095/167125/script.js?digest=14211530167053"></script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'7ace534cbb159920',m:'.NMVOcn3dLW_CADqpmD2SmmFdlK1EmtG8yOnenLTPLI-1679654735-0-AW5A9pc21PFI1k0nUDz4IoUDtTO+w4OWFmmXx34m5V39J/ANvujeTSofkYk3wohc7uArP5K8Rs9OL6Gqd9+/406K1BsFdJSuqjP6KG5eZJ/0uzT6Dvr14GIGID1RIVv7sUZkFZYqOTjXhOMaNhSjHq8=',s:[0x01382df9d5,0x2bdcdc01d0],u:'/cdn-cgi/challenge-platform/h/b'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/b/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>
